@@ -1,1 +1,1 @@
-console.log("Funcionando");
+document.write('<h1>Este es un mensaje de prueba</h1>');
